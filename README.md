@@ -18,7 +18,7 @@ To-do list:
 -For future development iterations I can upgrade the UI to a web page.
 
 Getting Started:
-git clone
+git clone https://github.com/Zem77/projectone.git
 To try it out please pull or clone the code from this repository to your local repository. Open Visual Studio. Open 
 this particular folder entitled projectone. Open a terminal and cd to the folder entitled ristorantesiciliano.
 Click the build button and the top center and enjoy the easy to use application!
